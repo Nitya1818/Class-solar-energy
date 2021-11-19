@@ -1,1 +1,1 @@
-# Class-solar-energy
+# solar_power
